@@ -18,6 +18,6 @@
 * Mindestinhalt: Überschrift(en), Absätze, Wörter fett/kursiv, Links, Bild(er), Liste(n), Tabelle
 * Name der Seite: *wl1.html*
 * Bilder in einem Unterverzeichnis: *images/*
-* Als gezippte Datei mit dem Namen *nachname_vorname.zip* im OLAT im Ordner *wl1* hochladen
+* Als gezippte Datei mit dem Namen *nachname_vorname.zip* im OLAT im Upload-Ordner *wl1* hochladen
 
 Abgabetermin: **Dienstag, 13. März 2018**
