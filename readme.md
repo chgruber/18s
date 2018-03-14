@@ -7,7 +7,7 @@
 
 ### Termine
 * 07.03.  HTML (Hypertext Markup Language)
-* 14.03.  GIT (Versionskontrolle) & CSS (Cascading Stylesheets)
+* 14.03.  GIT (Versionskontrolle) & Editoren & CSS (Cascading Stylesheets)
 * 21.03.  HTML & CSS & GIT
 * *Osterferien*
 * 11.04.  Javascript 101
