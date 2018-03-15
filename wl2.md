@@ -18,7 +18,8 @@
 
 * Erstellt ein neues git-repo auf github.com
 * Name des Repo: *wl2*
-* Mindestens eine HTML-Seite, ein Stylesheet und ein Bild im repo (Thema frei wählbar)
+* Mindestens eine HTML-Seite und ein Bild im repo (Thema frei wählbar)
 * Mindestens drei commits der Änderungen
+* E-Mail mit dem github Link zur wl2 an bernd.oeggl@uibk.ac.at
 
 Abgabetermin: **Dienstag, 20. März 2018**
