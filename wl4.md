@@ -31,6 +31,14 @@ function takeOrder() {
 ```
 Im Codeacademy-Tutorial wird erst im Schritt 8 darauf hingewiesen. Es funktionieren aber immer beide Schreibweisen.
 
+Die im Schritt 9 vorgestellte Technik zum Verkürzen der Syntax finden wir übrigens nicht sonderlich hilfreich. Diesen Schritt könnt Ihr euch gerne sparen.
+
+**Hinweis 2**: Bei der Ausgabe von Strings und Variablen in der `console.log` Funktion haben wir auf Beistriche gesetzt, im Code-Academy Tutorial wird manchmal das Plus-Zeichen (`+`) zur Verknüpfung verlangt:
+
+```
+console.log('Order: pizza topped with '+topping);
+```
+
 ## Zwei Fragen dazu
 
 Schickt uns bitte bis zum 17.04. zwei Fragen zum Inhalt der Tutorials, die euch während der Ausführung einfallen. <bernd.oeggl@uibk.ac.at> & <klaus.foerster@uibk.ac.at>
